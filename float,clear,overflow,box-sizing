@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>hi</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img {
+  float: right;
+}
+div {
+  clear: left;
+}
+.clearfix {
+  overflow: auto;
+}
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 50px; /* if you want space between the images */
+}
+<div>
+<img src="w3css.gif" width="100" height="140"><br>CSS is fun! <!--image with name-->
+</div>
+</style>
+</head>
+<body>
+ <h1>anuj</h1>
+</body>
+</html>
