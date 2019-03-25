@@ -4,10 +4,14 @@
 <head>
 <meta charset="utf-8">
 <title>hi</title>
-
-</style>
 </head>
 <body>
   <iframe src="demo_iframe.htm" height="200" width="300"></iframe> 
+  <h1 id='demo'>anuj deep</h1>
+   <script>
+document.getElementById("demo").innerHTML = "Hello dog!";
+document.getElementById("demo").style.color = "red";
+document.getElementById("demo").style.backgroundColor = "yellow"; 
+</script> 
 </body>
 </html>
