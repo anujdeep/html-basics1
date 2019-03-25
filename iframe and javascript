@@ -1,10 +1,12 @@
-<!--An iframe is used to display a web page within a web page.-->
+<!--An iframe is used to display a web page within a web page.
+A <meta> viewport element gives the browser instructions on how to control the page's dimensions and scaling.
+-->
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 <meta http-equiv="refresh" content="5">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 <title>hi</title>
 </head>
 <body>
