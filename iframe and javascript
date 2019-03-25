@@ -3,15 +3,19 @@
 <html>
 <head>
 <meta charset="utf-8">
+<meta http-equiv="refresh" content="5">
 <title>hi</title>
 </head>
 <body>
+
   <iframe src="demo_iframe.htm" height="200" width="300"></iframe> 
   <h1 id='demo'>anuj deep</h1>
-   <script>
+  
+<script>
 document.getElementById("demo").innerHTML = "Hello dog!";
 document.getElementById("demo").style.color = "red";
 document.getElementById("demo").style.backgroundColor = "yellow"; 
-</script> 
+</script>
+
 </body>
 </html>
