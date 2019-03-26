@@ -1,0 +1,27 @@
+In HTML5, you don't have to close all elements (for example the <p> element).
+
+We recommend closing all HTML elements.
+
+HTML5 allows mixing uppercase and lowercase letters in element names.
+
+HTML5 allows attribute values without quotes.
+
+We recommend quoting attribute values.
+
+In HTML5, the <html> tag and the <body> tag can be omitted.
+
+The <html> element is the document root. It is the recommended place for specifying the page language:
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+Declaring a language is important for accessibility applications (screen readers) and search engines.
+
+Omitting <html> or <body> can crash DOM and XML software.
+
+Omitting <body> can produce errors in older browsers (IE9).
+
+To ensure proper interpretation and correct search engine indexing, both the language and the character encoding should be defined as early as possible in a document.
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
