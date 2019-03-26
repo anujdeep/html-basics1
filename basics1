@@ -24,6 +24,7 @@ font-size:30px;
 <h1 style="background-color:green;font-family:courier;font-size:50px;text-align:center">Anuj Deep</h1>
 
 <h1 style="color:orange;font-family:courier;font-size:50px;text-align:center">Anuj Deep</h1>
+ <marquee direction='left'>hi how are you?</marquee>
 
 <p>I am <br>a boy</p><hr>
 
